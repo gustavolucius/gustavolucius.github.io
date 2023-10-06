@@ -6,7 +6,7 @@
 
 <div>
 <a href = "mailto:gustavo.lucius@dcc.ufmg.br"><img loading="lazy" src="https://github.com/gustavolucius/gustavolucius.github.io/assets/62659698/e012d37c-f474-4243-a45d-c6bfcacb2f7e" target="_blank"></a>
-<a href="www.linkedin.com/in/gustavolucius" target="_blank"><img loading="lazy" src="https://github.com/gustavolucius/gustavolucius.github.io/assets/62659698/f1113bdf-b187-44b7-a40c-02ff9f56596c" target="_blank"></a>
+<a href="http://linkedin.com/in/gustavolucius" target="_blank"><img loading="lazy" src="https://github.com/gustavolucius/gustavolucius.github.io/assets/62659698/f1113bdf-b187-44b7-a40c-02ff9f56596c" target="_blank"></a>
 <a href="http://lattes.cnpq.br/8596457391840162" target="_blank"><img loading="lazy" src="https://github.com/gustavolucius/gustavolucius.github.io/assets/62659698/1efcd64f-64dc-48e1-a3f8-ce8ac2d8c988" target="_blank"></a>   
 </div>
 
