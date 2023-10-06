@@ -12,5 +12,5 @@
 
 ----------------------------
 - 💻 I am currently a PhD student at the Department of Computer Science at UFMG.
-- ⚙️ I am currently working on the Geoscience Oriented Deep Learning (GODeep) project.
+- ⚙️ I am currently working on the Geoscience Oriented Deep Learning (GODeep) project as a researcher.
 - 💡 I am interested in the topics of AI Safety and AI Alignment.
